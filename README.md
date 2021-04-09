@@ -1,4 +1,4 @@
-# provider_demo
+# Podcast App
 
 A new Flutter project.
 
